@@ -1,0 +1,27 @@
+# Config workspace
+/.vscode
+# Downloaded documents
+data/auction/*
+data/catastro/*
+data/googlemaps/*
+data/iberpix/*
+data/report/*
+# Explanation of some Catastro and Hacienda terms
+docs/
+venv/
+# Pre-compile python code
+*__pycache__*
+*.txt
+*test*.py
+# Environment variables
+*.env
+*.code-workspace
+# Test data
+*.pkl
+ShowSadPath*
+*kdenlive
+*.db
+*/Sabi*
+*.png
+*/logs/*
+*Improvements.md
